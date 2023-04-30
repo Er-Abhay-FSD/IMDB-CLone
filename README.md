@@ -35,4 +35,4 @@ The project uses the following dependencies:
 
 This project was built using the IMDb API, which is not affiliated with this project. The project is intended for educational purposes only and is not intended to be a replacement for the IMDb website.
 ## link live server:
-[IMDb-CLone](https://er-abhay-fsd.github.io/IMDB-CLone/)
+[IMDb-CLone](https://er-abhay-fsd.github.io/IMDb-Clone/)
